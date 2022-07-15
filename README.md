@@ -2,7 +2,7 @@
 
 Insert a 9-number sequence and it generates the last two verification digits
 
-This template is used to generate last digits from CPF - Brazil (SSN in EUA)
+This template is used to generate last digits from CPF (Social Security Number in Brazil)
 
 ## Calculation:
 
